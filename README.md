@@ -1,2 +1,2 @@
-# Story-game
+# EYESCARE Story-game
 Interactive Story Game
